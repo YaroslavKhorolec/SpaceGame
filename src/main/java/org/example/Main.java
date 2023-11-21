@@ -212,7 +212,7 @@ public class Main extends Application {
         }
 
     }
-
+//klds;dfklsd;f
     @Override
     public void start(Stage stage) throws Exception {  // Абстрактный метод класса Application (наследование от него на r20), для которого сы должны написать логику
         Scene scene = new Scene(createRoot());  // Создаем "рабочий стол" и помещаем на него наше игровое поле (которое уде наполнено методом createContent())
